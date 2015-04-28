@@ -1,6 +1,6 @@
 # The Equilibrium of a Tilted Soda Can
 
-Did you know that you can balance a partially filled soda can when it's tilted? Here I analyse the mathematics of why that is possible. Originally written on July 20, 2014.
+Did you know that you can balance a partially filled soda can when it's tilted? Here I analyse the mathematics of why and when that is possible. Originally written on July 20, 2014.
 
 ![](tilted_coords.png)
 
